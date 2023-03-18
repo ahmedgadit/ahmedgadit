@@ -1,13 +1,11 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Ahmed Raza Gadit, people call me Doctor, a recent computer science graduate from [Virtual University](https://www.vu.edu.pk/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Ahmed Raza Gadit, people call me Doctor, done a diploma from aptech,graduated in BBA (majors in marketing) from [DIHE](https://dadabhoy.edu.pk/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ahmedgadit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-gadit-full-stack-developer/)](https://www.linkedin.com/in/ahmed-gadit-full-stack-developer/)
+[![Instagram Badge](https://img.shields.io/badge/-ahmed.gadit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ahmed.gadit/)](https://instagram.com/ahmed.gadit)
+[![Gmail Badge](https://img.shields.io/badge/-ahmed.gadit786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.gadit786@gmail.com)](mailto:ahmed.gadit786@gmail.com)
 
 ## ⚡ Technologies
 
@@ -40,7 +38,7 @@ I am Ahmed Raza Gadit, people call me Doctor, a recent computer science graduate
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedgadit&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgadit&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedgadit)
