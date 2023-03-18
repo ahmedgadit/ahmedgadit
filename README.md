@@ -1,5 +1,5 @@
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hey, great to seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Ahmed Raza Gadit, people call me Doctor, done a diploma from aptech,graduated in BBA (majors in marketing) from [DIHE](https://dadabhoy.edu.pk/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
