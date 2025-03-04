@@ -11,17 +11,23 @@ I am Ahmed Raza Gadit, people call me Doctor, done a diploma from aptech,graduat
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&labelColor=black&logo=shopify&logoColor=96BF48)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![ChakraUI](https://img.shields.io/badge/chakra-UI?style=for-the-badge&logo=chakraui&color=5c75ed&logoColor=ebedf5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -35,10 +41,25 @@ I am Ahmed Raza Gadit, people call me Doctor, done a diploma from aptech,graduat
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedgadit&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgadit&hide=TeX&layout=compact)
+<p align="center">
+  <a href="https://github.com/ahmedgadit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgadit&theme=radical&border=7F3FBF&background=0D1117" alt="Ahmed Gadit GitHub streak"  width="100%"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ahmedgadit">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedgadit&theme=radical" alt="Ahmed Gadit GitHub Contribution"  width="100%"/>
+  </a>
+</p>
+
+![Ahmed Gadit Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedgadit&custom_title=ahmedgadit%20GitHub%20Activity%20Graph&bg_color=0D1117&border=7F3FBF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<a> 
+  <a href="https://github.com/sohaibmughall"><img alt="Ahmed Gadit Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ahmedgadit&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="100%"/></a>
+  <br/>
+</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedgadit)
